@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenidos a las paginas de Github
 
 You can use the [editor on GitHub](https://github.com/Skrixam/skrixam.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
